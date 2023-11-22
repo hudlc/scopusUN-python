@@ -1,4 +1,3 @@
-Olá! 
-Seja bem-vindo ao projeto Scopus-UN.
-Nesse projeto, procuramos integrar as bases de dados disponíveis na scopus (www.scopus.com) com a biblioteca das Nações Unidas (digitallibrary.un.org).
- 
+Hello!
+Welcome to our UN-Scopus data project. 
+In this project, we seek to integrate Scopus data (www.scopus.com) with UN library (digitallibrary.un.or). 
